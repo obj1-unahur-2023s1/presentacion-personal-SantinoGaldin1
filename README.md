@@ -1,3 +1,5 @@
+![yo](./assets/yo.jpeg)
+
 ## Mi presentacion:Santino Galdin
 
 ### Hola me llamo Santino Nahuel Galdin,tengo 18 años
